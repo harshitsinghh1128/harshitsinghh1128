@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**harshitsinghh1128/harshitsinghh1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Mobile & Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+Flutter  
+Java  
+Data Structures & Algorithms  
+Database
+## 🌐 Portfolio
+https://harshitportfolio-five.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 GitHub
+https://github.com/harshitsinghh1128
+
+## 🧠 LeetCode
+https://leetcode.com/u/aHu59DzfYF/
+
+## 📫 Contact
+harshitsinghh1128@gmail.com
