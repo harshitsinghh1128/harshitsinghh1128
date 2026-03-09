@@ -1,6 +1,6 @@
 # Hi, I'm Harshit 👋
 
-Computer Science Student | Aspiring Mobile & Full Stack Developer
+Computer Science Student | Aspiring Full Stack Mobile Developer
 
 ## 🚀 Currently Learning
 Flutter (begginer)
