@@ -1,12 +1,13 @@
 # Hi, I'm Harshit 👋
 
-Computer Science Student | Mobile & Full Stack Developer
+Computer Science Student | Aspiring Mobile & Full Stack Developer
 
 ## 🚀 Currently Learning
-Flutter  
-Java  
+Flutter (begginer)
+Swift(intermediate)
+Java(intermediate)  
 Data Structures & Algorithms  
-Database
+
 ## 🌐 Portfolio
 https://harshitportfolio-five.vercel.app/
 
