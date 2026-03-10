@@ -11,8 +11,8 @@ Data Structures & Algorithms
 ## 🌐 Portfolio
 https://harshitportfolio-five.vercel.app/
 
-## 💻 GitHub
-https://github.com/harshitsinghh1128
+## 💻 Linkedin
+https://www.linkedin.com/in/harshit-singh-882b46309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ## 🧠 LeetCode
 https://leetcode.com/u/aHu59DzfYF/
