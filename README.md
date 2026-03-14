@@ -1,6 +1,6 @@
 # Hi, I'm Harshit 👋  
 
-### Computer Science Student | Aspiring Full Stack Mobile Developer  
+### Computer Science Student | Aspiring Full Stack App Developer  
 
 I’m a B.Tech engineering student passionate about mobile development, backend systems, and problem solving.  
 Currently focused on building strong fundamentals in Flutter, Swift, Java, and Data Structures & Algorithms while working towards becoming a full stack mobile engineer.
