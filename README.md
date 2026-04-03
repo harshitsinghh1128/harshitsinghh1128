@@ -18,14 +18,6 @@
 
 ---
 
-## 🧠 Currently Learning  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,swift,java,python,git,github" />
-</p>
-
----
-
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
@@ -62,7 +54,7 @@
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/harshit-singh-882b46309">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
