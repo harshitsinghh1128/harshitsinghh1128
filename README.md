@@ -1,78 +1,89 @@
-# Hi, I'm Harshit 👋  
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h3 align="center">🚀 Aspiring Full Stack Mobile Engineer</h3>
 
-### Aspiring Full Stack App Developer  
-
-I’m a engineering student passionate about mobile development, backend systems, and problem solving.  
-Currently focused on building strong fundamentals in Flutter, Swift, Java, and Data Structures & Algorithms while working towards becoming a full stack mobile engineer.
-
----
-
-## 🚀 About Me
-
-- 🎓  Engineering Student  
-- 📱 Interested in Mobile App Development
-- ⚙️ Learning Backend Development with Java
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Currently improving my system design and coding skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;Flutter+%7C+Swift+%7C+Java;DSA+Enthusiast;Always+Learning+🚀" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 About Me  
 
-- Flutter (App Development)
-- Swift (iOS Development)
-- Java (Backend Development)
-- Data Structures & Algorithms
-- Git & GitHub
-- API Development
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- Java  
-- Dart  
-- Swift
-- Python
-
-### Mobile Development
-- Flutter  
-- iOS Development  
-
-### Tools & Technologies
-- Git  
-- GitHub  
-- VS Code  
-- Android Studio  
-- Xcode  
+- 🎓 Engineering Student  
+- 📱 Passionate about Mobile App Development  
+- ⚙️ Learning Backend with Java  
+- 🧠 Practicing Data Structures & Algorithms  
+- 🌱 Exploring System Design  
 
 ---
 
-## 📂 Portfolio
+## 🧠 Currently Learning  
 
-🌐 Portfolio Website  
-https://portfolioharsh028.vercel.app/
-
----
-
-## 🧩 Coding Practice
-
-💻 LeetCode Profile  
-https://leetcode.com/u/aHu59DzfYF/
-
-I regularly practice Data Structures and Algorithms to improve my problem-solving skills and prepare for technical interviews.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,swift,java,python,git,github" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack  
 
-💼 LinkedIn  
-https://www.linkedin.com/in/harshit-singh-882b46309
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📧 Email  
-harshitsinghh1128@gmail.com
+### 📱 Mobile  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
-⭐ Always learning, always building.
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Coding Practice  
+
+💻 **LeetCode Profile**  
+👉 https://leetcode.com/u/aHu59DzfYF/
+
+---
+
+## 📂 Portfolio  
+
+🌐 **Portfolio Website**  
+👉 https://portfolioharsh028.vercel.app/
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-singh-882b46309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 harshitsinghh1128@gmail.com  
+
+---
+
+## ⚡ Fun Zone  
+
+```cpp
+while(!success) {
+    tryAgain();
+}
