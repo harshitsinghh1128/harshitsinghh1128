@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Mobile Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;Flutter+%7C+Swift+%7C+Java;DSA+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;Flutter+%7C+Swift+%7C+Java;Always+Learning+🚀" />
 </p>
 
 ---
